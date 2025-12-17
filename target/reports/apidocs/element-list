@@ -1,0 +1,8 @@
+com.openwarehouses
+com.openwarehouses.controllers
+com.openwarehouses.models
+com.openwarehouses.services
+com.openwarehouses.utils
+com.openwarehouses.views
+com.openwarehouses.views.edicion
+com.openwarehouses.views.visualization

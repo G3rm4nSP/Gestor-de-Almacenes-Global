@@ -1,0 +1,74 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/germa/.m2/repository/org/openjfx/javafx-controls/20.0.2/javafx-controls-20.0.2.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-controls/20.0.2/javafx-controls-20.0.2-win.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-graphics/20.0.2/javafx-graphics-20.0.2.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-graphics/20.0.2/javafx-graphics-20.0.2-win.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-base/20.0.2/javafx-base-20.0.2.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-base/20.0.2/javafx-base-20.0.2-win.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-fxml/20.0.2/javafx-fxml-20.0.2.jar;C:/Users/germa/.m2/repository/org/openjfx/javafx-fxml/20.0.2/javafx-fxml-20.0.2-win.jar;C:/Users/germa/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar;C:/Users/germa/.m2/repository/org/apache/pdfbox/pdfbox/2.0.30/pdfbox-2.0.30.jar;C:/Users/germa/.m2/repository/org/apache/pdfbox/fontbox/2.0.30/fontbox-2.0.30.jar;C:/Users/germa/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/germa/.m2/repository/com/google/zxing/core/3.5.3/core-3.5.3.jar;C:/Users/germa/.m2/repository/com/google/zxing/javase/3.5.3/javase-3.5.3.jar;C:/Users/germa/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/germa/Desktop/Proyecto200/gestor-almacenes/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/germa/Desktop/Proyecto200/gestor-almacenes/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gestor-almacenes 1.0.0 API'
+-use
+-version
+-windowtitle
+'gestor-almacenes 1.0.0 API'
+com.openwarehouses
+com.openwarehouses.controllers
+com.openwarehouses.models
+com.openwarehouses.services
+com.openwarehouses.utils
+com.openwarehouses.views.edicion
+com.openwarehouses.views
+com.openwarehouses.views.visualization
+C:\Users\germa\.m2\repository\org\openjfx\javafx-controls\20.0.2\javafx-controls-20.0.2.jar = 1765399645736
+C:\Users\germa\.m2\repository\org\openjfx\javafx-controls\20.0.2\javafx-controls-20.0.2-win.jar = 1765399646250
+C:\Users\germa\.m2\repository\org\openjfx\javafx-graphics\20.0.2\javafx-graphics-20.0.2.jar = 1765399645994
+C:\Users\germa\.m2\repository\org\openjfx\javafx-graphics\20.0.2\javafx-graphics-20.0.2-win.jar = 1765399646285
+C:\Users\germa\.m2\repository\org\openjfx\javafx-base\20.0.2\javafx-base-20.0.2.jar = 1765399645894
+C:\Users\germa\.m2\repository\org\openjfx\javafx-base\20.0.2\javafx-base-20.0.2-win.jar = 1765399646164
+C:\Users\germa\.m2\repository\org\openjfx\javafx-fxml\20.0.2\javafx-fxml-20.0.2.jar = 1765402344680
+C:\Users\germa\.m2\repository\org\openjfx\javafx-fxml\20.0.2\javafx-fxml-20.0.2-win.jar = 1765402344799
+C:\Users\germa\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1765393139017
+C:\Users\germa\.m2\repository\org\apache\pdfbox\pdfbox\2.0.30\pdfbox-2.0.30.jar = 1765756472418
+C:\Users\germa\.m2\repository\org\apache\pdfbox\fontbox\2.0.30\fontbox-2.0.30.jar = 1765756474110
+C:\Users\germa\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1765399697279
+C:\Users\germa\.m2\repository\com\google\zxing\core\3.5.3\core-3.5.3.jar = 1765759971251
+C:\Users\germa\.m2\repository\com\google\zxing\javase\3.5.3\javase-3.5.3.jar = 1765759971937
+C:\Users\germa\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar = 1765759971867
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\src\main\java = 1765399241508
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\allclasses-index.html = 1765993126305
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\allpackages-index.html = 1765993126313
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\constant-values.html = 1765993125985
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\copy.svg = 1765993126424
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\element-list = 1765993125859
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\help-doc.html = 1765993126416
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\index-all.html = 1765993126399
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\index.html = 1765993126256
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\javadoc.bat = 1765992487170
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\link.svg = 1765993126427
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\member-search-index.js = 1765993126321
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\module-search-index.js = 1765993126315
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\overview-summary.html = 1765993126407
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\overview-tree.html = 1765993126250
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\package-search-index.js = 1765993126317
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\script.js = 1765993126423
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\search-page.js = 1765993126432
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\search.html = 1765993126403
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\search.js = 1765993126430
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\stylesheet.css = 1765993126420
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\tag-search-index.js = 1765993126323
+C:\Users\germa\Desktop\Proyecto200\gestor-almacenes\target\reports\apidocs\type-search-index.js = 1765993126319
