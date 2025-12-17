@@ -1,5 +1,8 @@
 package com.openwarehouses.views.edicion;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import com.openwarehouses.controllers.PasilloController;
 import com.openwarehouses.models.Almacen;
 import com.openwarehouses.models.Pasillo;
@@ -11,8 +14,7 @@ import com.openwarehouses.utils.GridLoader;
 import com.openwarehouses.utils.HeaderUtils;
 import com.openwarehouses.utils.HierarchyButtonFactory;
 import com.openwarehouses.utils.StageUtils;
-import java.util.ArrayList;
-import java.util.List;
+
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.BorderPane;

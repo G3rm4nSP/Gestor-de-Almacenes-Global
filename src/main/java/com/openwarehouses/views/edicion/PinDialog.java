@@ -1,6 +1,7 @@
 package com.openwarehouses.views.edicion;
 
 import com.openwarehouses.services.StorageService;
+
 import javafx.animation.FadeTransition;
 import javafx.animation.PauseTransition;
 import javafx.application.Platform;

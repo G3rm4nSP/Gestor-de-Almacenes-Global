@@ -1,14 +1,16 @@
 package com.openwarehouses.services;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Function;
+
 import com.openwarehouses.models.Almacen;
 import com.openwarehouses.models.Altura;
 import com.openwarehouses.models.Estanteria;
 import com.openwarehouses.models.Label;
 import com.openwarehouses.models.Pasillo;
 import com.openwarehouses.models.Posicion;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Function;
+
 import javafx.scene.control.Alert;
 
 /**

@@ -1,10 +1,11 @@
 package com.openwarehouses.services;
 
+import java.util.List;
+
 import com.openwarehouses.models.Almacen;
 import com.openwarehouses.models.Altura;
 import com.openwarehouses.models.Estanteria;
 import com.openwarehouses.models.Pasillo;
-import java.util.List;
 
 /**
  * Servicio encargado de validar la integridad de datos en la jerarquía.

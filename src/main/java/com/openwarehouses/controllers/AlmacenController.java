@@ -1,9 +1,10 @@
 package com.openwarehouses.controllers;
 
+import java.util.List;
+
 import com.openwarehouses.models.Almacen;
 import com.openwarehouses.services.StorageService;
 import com.openwarehouses.services.ValidationService;
-import java.util.List;
 
 /**
  * Controlador para gestionar operaciones de Almacenes. Maneja creación, edición

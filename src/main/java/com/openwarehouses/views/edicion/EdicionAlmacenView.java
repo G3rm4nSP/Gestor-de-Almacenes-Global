@@ -1,5 +1,8 @@
 package com.openwarehouses.views.edicion;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import com.openwarehouses.controllers.AlmacenController;
 import com.openwarehouses.models.Almacen;
 import com.openwarehouses.services.StorageService;
@@ -9,9 +12,9 @@ import com.openwarehouses.utils.GridLoader;
 import com.openwarehouses.utils.HeaderUtils;
 import com.openwarehouses.utils.HierarchyButtonFactory;
 import com.openwarehouses.utils.StageUtils;
+import com.openwarehouses.utils.HeaderUtils.HeaderMode;
 import com.openwarehouses.views.InicioView;
-import java.util.ArrayList;
-import java.util.List;
+
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.BorderPane;
@@ -74,7 +77,7 @@ public class EdicionAlmacenView extends BorderPane {
 
   /** Crea y configura el encabezado de la vista. */
   private void crearHeader() {
-    HeaderUtils.createHeader(this, primaryStage, this::volverAtras);
+    HeaderUtils.createHeader(this, primaryStage, this::volverAtras, HeaderMode.EDITION);
   }
 
   /** Inicializa el grid donde se mostrarán los almacenes disponibles. */

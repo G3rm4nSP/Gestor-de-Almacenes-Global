@@ -1,6 +1,7 @@
 package com.openwarehouses;
 
 import com.openwarehouses.views.InicioView;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;

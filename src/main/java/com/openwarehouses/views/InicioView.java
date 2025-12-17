@@ -3,6 +3,7 @@ package com.openwarehouses.views;
 import com.openwarehouses.views.edicion.EdicionAlmacenView;
 import com.openwarehouses.views.edicion.PinDialog;
 import com.openwarehouses.views.visualization.SeleccionAlmacenEtiquetasView;
+
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

@@ -1,0 +1,18 @@
+# Ignorar carpetas de compilación y runtime
+/target/
+/runtime/
+
+# Ignorar ejecutables generados
+*.exe
+*.jar
+
+# Ignorar configuraciones locales
+.vscode/
+*.iml
+.classpath
+.project
+
+# Ignorar logs
+*.log
+
+# Mantener únicamente src, pom.xml y assets
